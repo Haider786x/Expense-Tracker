@@ -24,5 +24,11 @@ A simple and responsive web application built using **React.js** and **Tailwind 
 
 ## 📸 Screenshots
 
-> You can add screenshots here (optional). Upload images in the `assets` or `public` folder and reference them like:
+
+![image](https://github.com/user-attachments/assets/37439400-c434-4794-9690-f4515539cc35)
+![image](https://github.com/user-attachments/assets/ab553252-6ba9-4772-a4ab-fccfac5c9082)
+![image](https://github.com/user-attachments/assets/9f5ba607-a408-4f2c-b839-f1763384359f)
+
+
+
 
